@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate ML developer</h3>
+<h3 align="center">A somwehat passionate ML developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandotexe&label=Profile%20views&color=0e75b6&style=flat" alt="amandotexe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandotexe" alt="amandotexe" /></a> </p>
+- 🌱 I’m currently learning **Flask**
+
+- 💬 Ask me about **Tensorflow**
+
+- 📫 How to reach me **aman.kanwar3@gmail.com**
+
+- ⚡ Fun fact **I make dope spotify playlists**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/amank504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amank504" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
