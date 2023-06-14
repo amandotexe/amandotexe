@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Tensorflow**
+- 💬 Ask me about **CV frameworks**
 
 - 📫 How to reach me **aman.kanwar3@gmail.com**
 
-- ⚡ Fun fact **I cope **
+- ⚡ Fun fact **  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
