@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A somewhat passionate ML developer 🥴</h3>
+<h3 align="center">A somewhat passionate ML developer 🫡 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandotexe&label=Profile%20views&color=0e75b6&style=flat" alt="amandotexe" /> </p>
 
